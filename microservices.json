@@ -1,5 +1,0 @@
-{
-  "spring.datasource.username": "postgres",
-  "spring.datasource.password": "963852741.",
-  "spring.datasource.url": "jdbc:postgresql://localhost:5432/tienda_online"
-}
